@@ -1,0 +1,26 @@
+---
+title: "Reproducible and Collaborative Practices"
+author: "Fan"
+subtitle: Tutorial 7
+output:
+  html_document:
+    toc: yes
+    toc_depth: '2'
+    df_print: paged
+  pdf_document:
+    toc: yes
+    toc_depth: 2
+    number_sections: yes
+    highlight: tango
+institute: Department of Econometrics and Business Statistics
+header-includes:
+- \usepackage{titling}
+- \pretitle{\begin{center} \includegraphics[width=5in,height=13in]{figs/front.jpg}
+- \posttitle{\end{center}}
+- \usepackage{fontawesome}
+- \usepackage[most]{tcolorbox}
+- \usepackage{xcolor}
+- \usepackage{sectsty}
+- \sectionfont{\color{olive}}
+- \usepackage{verbatim}
+---
